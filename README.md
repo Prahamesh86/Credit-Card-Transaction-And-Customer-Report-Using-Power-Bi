@@ -1,0 +1,2 @@
+# Credit-Card-Transaction-And-Customer-Report-Using-Power-Bi
+Developed an interactive multi-page Power BI dashboard to analyze credit card revenue, interest, transactions, and customer behavior. Leveraged DAX-based KPIs, drill-throughs, and slicers to deliver insights by card category and customer demographics. Built an optimized star-schema data model using Power Query for high-performance reporting.
